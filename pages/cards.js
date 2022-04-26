@@ -1,3 +1,5 @@
+import { Typography } from '@mui/material';
+
 export default function Cards() {
-  return <h1>Cards</h1>;
+  return <Typography variant="h1">Cards</Typography>;
 }

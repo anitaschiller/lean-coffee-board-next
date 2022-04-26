@@ -1,3 +1,5 @@
+import { Typography } from '@mui/material';
+
 export default function Create() {
-  return <h1>Create</h1>;
+  return <Typography variant="h1">Create</Typography>;
 }
