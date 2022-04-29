@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Props and lifting state",
+    "name": "Pale Panda"
+  },
+  {
+    "content": "Callback functions",
+    "name": "Critical Coyote"
+  },
+  {
+    "content": "When to use useEffect",
+    "name": "Majestic Mole"
+  },
+  {
+    "content": "Storybook and component library",
+    "name": "Grumpy Giraffe"
+  },
+  {
+    "content": "Export default vs. named export",
+    "name": "Modern Moose"
+  },
+  {
+    "content": "Best practices and conventions",
+    "name": "Awesome Alpaca"
+  },
+  {
+    "content": "Single page applications",
+    "name": "Concerned Chicken"
+  },
+  {
+    "content": "useImmer hook",
+    "name": "Fresh Frog"
+  },
+  {
+    "content": "Zustand and fetch",
+    "name": "Hairy Hedgehog"
+  }
+]

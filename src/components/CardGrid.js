@@ -13,7 +13,7 @@ export default function CardGrid() {
     <Grid container spacing={4}>
       {data.map((card) => (
         <Grid item xs={4} key={card.id}>
-          <Card name={card.name} content={card.content} />
+          <Card name={card.name} content={card.content} id={card.id} />
         </Grid>
       ))}
     </Grid>
