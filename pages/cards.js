@@ -3,6 +3,7 @@ import { getCards } from '../src/services/get-cards';
 import CardGrid from '../src/components/CardGrid';
 import { SWRConfig } from 'swr';
 import { swrFetcher } from '../src/lib/swr-fetcher';
+import User from '../src/models/User';
 
 export async function getStaticProps() {
   const cards = await getCards();
