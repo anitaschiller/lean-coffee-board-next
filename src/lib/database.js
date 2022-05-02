@@ -1,8 +1,6 @@
 import mongoose from 'mongoose';
 
-//const url = 'mongodb://localhost:27017/lean-coffee';
-const url =
-  'mongodb+srv://shop-backend-user:<password>@cluster0.0qyqr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const url = 'mongodb://localhost:27017/lean-coffee';
 
 export async function dbConnect() {
   try {
